@@ -1,7 +1,39 @@
 fileFormatVersion: 2
 guid: 777a3ff283bf84977a392d6aaccbd860
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: MP SpriteSheet V8 8192px (1)_0
+    21300002: MP SpriteSheet V8 8192px (1)_1
+    21300004: MP SpriteSheet V8 8192px (1)_2
+    21300006: MP SpriteSheet V8 8192px (1)_3
+    21300008: MP SpriteSheet V8 8192px (1)_4
+    21300010: MP SpriteSheet V8 8192px (1)_5
+    21300012: MP SpriteSheet V8 8192px (1)_6
+    21300014: MP SpriteSheet V8 8192px (1)_7
+    21300016: MP SpriteSheet V8 8192px (1)_8
+    21300018: MP SpriteSheet V8 8192px (1)_9
+    21300020: MP SpriteSheet V8 8192px (1)_10
+    21300022: MP SpriteSheet V8 8192px (1)_11
+    21300024: MP SpriteSheet V8 8192px (1)_12
+    21300026: MP SpriteSheet V8 8192px (1)_13
+    21300028: MP SpriteSheet V8 8192px (1)_14
+    21300030: MP SpriteSheet V8 8192px (1)_15
+    21300032: MP SpriteSheet V8 8192px (1)_16
+    21300034: MP SpriteSheet V8 8192px (1)_17
+    21300036: MP SpriteSheet V8 8192px (1)_18
+    21300038: MP SpriteSheet V8 8192px (1)_19
+    21300040: MP SpriteSheet V8 8192px (1)_20
+    21300042: MP SpriteSheet V8 8192px (1)_21
+    21300044: MP SpriteSheet V8 8192px (1)_22
+    21300046: MP SpriteSheet V8 8192px (1)_23
+    21300048: MP SpriteSheet V8 8192px (1)_24
+    21300050: MP SpriteSheet V8 8192px (1)_25
+    21300052: MP SpriteSheet V8 8192px (1)_26
+    21300054: MP SpriteSheet V8 8192px (1)_27
+    21300056: MP SpriteSheet V8 8192px (1)_28
+    21300058: MP SpriteSheet V8 8192px (1)_29
+    21300060: MP SpriteSheet V8 8192px (1)_30
+    21300062: MP SpriteSheet V8 8192px (1)_31
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -31,7 +63,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,14 +72,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -63,7 +95,40 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -71,7 +136,647 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 7308
+        width: 468
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa332b3b60b45cb87963675e364d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 7308
+        width: 424
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0bfbb1f7b14bb484569de85c2c0e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 7308
+        width: 428
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb49c4bbe0f4daf82e722d10c2a205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_3
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 7336
+        width: 420
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b9d851fd37412c962e1830f43fed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_4
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 7304
+        width: 404
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb344701a3542898d67b320f826ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_5
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 7304
+        width: 396
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf5153397d04ea090af59db7c0fd3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_6
+      rect:
+        serializedVersion: 2
+        x: 6484
+        y: 7304
+        width: 412
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0b07865df114f5d9bdeb6f06feb341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_7
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 7336
+        width: 392
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55000c7232687495d966b18385c1fcb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6304
+        width: 624
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f093256ce646d689251628bc6e2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 6288
+        width: 612
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea97c3b1c3004445d82d6ef1ffe9602a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 6272
+        width: 552
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a44fa1b3f1c44af9b3c314312367ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 6280
+        width: 656
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cc714901ed84ad0beabcb762aacec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_12
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 6296
+        width: 720
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0a481f2f9bf471b913fe4722c8c059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_13
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 6276
+        width: 728
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9d7a6333dbf4211a542c78f9ef554d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_14
+      rect:
+        serializedVersion: 2
+        x: 6344
+        y: 6268
+        width: 620
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd29e19b24b64e0cb85e6a3cc9fcc44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_15
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 6284
+        width: 640
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30842c001ed964e278a22b78101d4235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5280
+        width: 624
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119f4fe51d9db44fc86fe0aecf21fb77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 5264
+        width: 608
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9548dc5f932f94ae9ab18eecaf8df2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 5240
+        width: 552
+        height: 784
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce48831d093d43a08eee3732ed191f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_19
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 5252
+        width: 656
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372b61bc297c4a48b54ba2a4edf6685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_20
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 5272
+        width: 720
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e67a3021e5c64ebe89f27423a1c8eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_21
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 5256
+        width: 728
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042ad6574ecf4569ae2b879b2feff6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_22
+      rect:
+        serializedVersion: 2
+        x: 6344
+        y: 5244
+        width: 624
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2226d9775948ef88a0b4f18f0538c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_23
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 5260
+        width: 640
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734fee15e898844e0ba5f4dd73c17acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4272
+        width: 592
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2394ab1ed1648c88def30d1081d022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 4272
+        width: 596
+        height: 616
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e42067746e4c9896240b2d509d27a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_26
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4240
+        width: 704
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d8e892132a4f519b5d2ca3dd4ad26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_27
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 4108
+        width: 556
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f6849021af4464890475bc4add25f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_28
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 4160
+        width: 716
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1390217aaf944703865db72abacd850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_29
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 4160
+        width: 564
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a681b4bb47b4b18b1939461c52e551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_30
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 4160
+        width: 520
+        height: 616
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c5dd5e9a1344dfea72856d1c5f1e3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP SpriteSheet V8 8192px (1)_31
+      rect:
+        serializedVersion: 2
+        x: 7364
+        y: 4256
+        width: 408
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9596391dec194011a218ad3d91e6618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
